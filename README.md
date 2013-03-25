@@ -7,6 +7,7 @@ grunt.jsを使用してTypeScriptとcoffeesriptをwatchして変更があった�
 
 -----
 下記のコマンドを実行する。
+
 npm install
 
 grunt
